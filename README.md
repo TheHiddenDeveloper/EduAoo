@@ -204,4 +204,4 @@ For any queries or issues regarding the app, you can contact:
 
 - **Developer**: [Hagan Rodney]
 - **Email**: [rodneyhagan74@gmail.com.com]
-- **GitHub Repository**: [https://github.com/your-repo/eduapp](https://github.com/your-repo/eduapp)
+- **GitHub Repository**: [https://github.com/TheHiddenDeveloper/EduApp/tree/master](https://github.com/TheHiddenDeveloper/EduApp/tree/master)
